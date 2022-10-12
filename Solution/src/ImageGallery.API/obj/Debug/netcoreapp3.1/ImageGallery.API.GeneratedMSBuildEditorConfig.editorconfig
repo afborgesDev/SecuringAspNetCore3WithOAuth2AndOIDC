@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ImageGallery.API
+build_property.ProjectDir = C:\Users\alexandre.borges\Personal\Projects\Courses\SecuringAspNetCore3WithOAuth2AndOIDC\Solution\src\ImageGallery.API\
